@@ -1,0 +1,6 @@
+CRUD with PHP OOP without image.
+Display popup: used toastr package.
+
+database name:- taskmanager
+table name:- users
+column nam:- `id`, `name`, `email`, `address`, `phone`, `status`, `date`
